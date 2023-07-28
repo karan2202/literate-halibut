@@ -429,7 +429,7 @@ button[type="submit"] {
     left: 0;
     width: 20%;
     height: 90%;
-background-image: url('https://media3.giphy.com/media/SU3ivA7zVnh1Fsdzjg/giphy.gif?cid=ecf05e47qzz9ajo735gy61l8vm1x7zs4ghcnx3yxgogefaah&ep=v1_gifs_search&rid=giphy.gif&ct=g');   
+ 
     background-size: cover;
     background-position: center;
     animation: animatedBackground 0s linear infinite;
